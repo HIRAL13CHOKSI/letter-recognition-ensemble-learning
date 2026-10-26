@@ -4,7 +4,7 @@
 
 This course assignment explores how machine-learning models can recognize the 26 capital letters of the English alphabet from numeric features extracted from character images. It compares classifiers and experiments with ensemble methods.
 
-**Original analysis:** [Letter-recognition notebook](notebooks/letter_recognition_original.ipynb)
+**Original analysis:** [Letter-recognition notebook](https://github.com/HIRAL13CHOKSI/BIG-DATA-ANALYTICS-PROJECTS/blob/main/Letter_Recognition.ipynb)
 
 ## Dataset and task
 
@@ -32,6 +32,6 @@ These are saved results, not an independently reproduced benchmark. They come fr
 
 ## Running and next steps
 
-Open the [original notebook](notebooks/letter_recognition_original.ipynb) in Jupyter or Colab. It expects `letter-recognition.data.csv` in the working directory and uses Python, pandas, NumPy, and scikit-learn. Before reproducing results, obtain the original dataset, remove the unrelated example, isolate preprocessing within cross-validation, and resolve the ensemble error.
+Open the [original notebook](https://github.com/HIRAL13CHOKSI/BIG-DATA-ANALYTICS-PROJECTS/blob/main/Letter_Recognition.ipynb) in Jupyter or Colab. It expects `letter-recognition.data.csv` in the working directory and uses Python, pandas, NumPy, and scikit-learn. Before reproducing results, obtain the original dataset, remove the unrelated example, isolate preprocessing within cross-validation, and resolve the ensemble error.
 
 **Skills:** data preprocessing · multiclass classification · cross-validation · ensemble learning · feature importance
